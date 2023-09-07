@@ -8,7 +8,7 @@
   /* background-image: radial-gradient(at 0% 0%, rgb(13, 4, 60) 0, transparent 50%),
     radial-gradient(at 50% 0%, rgb(126, 132, 155) 0, transparent 50%),
     radial-gradient(at 100% 0%, rgb(94, 7, 37) 0, transparent 50%); */
-  background-image: url("https://cdn.corporate.walmart.com/dims4/WMT/fec648e/2147483647/strip/true/crop/800x450+0+0/resize/980x551!/quality/90/?url=https%3A%2F%2Fcdn.corporate.walmart.com%2F3f%2F41%2F45a5f8ac4ed7b8a9f0d32eacdd77%2Fwal-express-delivery-announcement-051120-v2-twitter.gif");
+  background-image: url("../public/images/download.gif");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
