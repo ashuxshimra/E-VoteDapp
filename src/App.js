@@ -6,6 +6,7 @@ import Connected from "./Components/Connected";
 import "./App.css";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import SignIn from "./Components/SignIn";
 
 function App() {
   const [provider, setProvider] = useState(null);
@@ -169,6 +170,8 @@ function App() {
 
   return (
     <div className="App">
+      {/* Include your Header component here */}
+      {/* <Header /> */}
       {votingStatus ? (
         isConnected ? (
           <Connected
